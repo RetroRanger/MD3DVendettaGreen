@@ -28,7 +28,7 @@
       "#B9B9B9"
     ],
     "TEXT_LINK": [
-      "#ACF2C8"
+      "#5078B4"
     ],
     "TEXT_DANGER": [
       "#F04040"
@@ -46,7 +46,7 @@
       "#676767"
     ],
      "BACKGROUND_PRIMARY": [
-      "#2C322E"
+      "#151D18"
     ],
     "BACKGROUND_SECONDARY": [
       "#151D18"
@@ -76,7 +76,7 @@
       "#151D18"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#283C5A"
+      "#2C322E"
     ],
     "BACKGROUND_MENTIONED": [
       "#151D18"
