@@ -1,6 +1,6 @@
 {
-  "name": "Material Discord Mobile",
-  "description": "Material you discord theme for mobile",
+  "name": "MD3VendettaGreen",
+  "description": "Retro's custom MD3 theme based on Material Discord",
   "authors": [
     {
       "name": "Wilk22",
@@ -64,7 +64,7 @@
       "#1D221F"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#2F3531"
+      "#1D221F"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#DEDEDE"
