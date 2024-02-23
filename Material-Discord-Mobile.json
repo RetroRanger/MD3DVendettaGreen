@@ -28,7 +28,7 @@
       "#B9B9B9"
     ],
     "TEXT_LINK": [
-      "#5078B4"
+      "#ACF2C8"
     ],
     "TEXT_DANGER": [
       "#F04040"
@@ -37,7 +37,7 @@
       "#B9B9B9"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#EAEAEA"
+      "#91D5AD"
     ],
     "INTERACTIVE_HOVER": [
       "#EAEAEA"
@@ -46,7 +46,7 @@
       "#676767"
     ],
      "BACKGROUND_PRIMARY": [
-      "#151D18"
+      "#2C322E"
     ],
     "BACKGROUND_SECONDARY": [
       "#151D18"
