@@ -73,13 +73,13 @@
       "#272727"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#2F3531"
+      "#1D221F"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#283C5A"
     ],
     "BACKGROUND_MENTIONED": [
-      "#384B42"
+      "#1D221F"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#283C5A"
@@ -88,7 +88,7 @@
       "#EAEAEA"
     ],
     "CHAT_BACKGROUND": [
-      "#16171A"
+      "#1D221F"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#DEDEDE"
